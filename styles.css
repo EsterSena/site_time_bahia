@@ -1,0 +1,22 @@
+nav {
+    background-color: blue;
+    font-family: Arial;
+    font-size: 14pt;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    color: white;
+    padding: 10px;
+}
+
+li::first-letter {
+    color: red;
+}
+
+a {
+    color: white;
+}
